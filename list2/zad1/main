@@ -1,0 +1,3 @@
+#!/bin/bash
+python3 sorting.py $1 $2 $3 $4 <&0 >&1 2> result.txt;
+rm -rf ./__pycache__;

@@ -1,0 +1,3 @@
+cd ..;
+python3 mainzad1.py;
+cd zad1;

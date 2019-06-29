@@ -1,0 +1,4 @@
+cd ..;
+python3 mainzad2.py 2>./zad2/routes.out;
+cd -;
+
